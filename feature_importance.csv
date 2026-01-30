@@ -1,0 +1,151 @@
+feature,importance
+Non_Agriculture_Income,0.8965301706989349
+Total_Land_For_Agriculture,0.015485128982795856
+Zipcode,0.005169945136316531
+DISTRICT,0.004043396399425914
+land_productivity,0.00402232234128498
+land_rainfall_interaction,0.003844065616409414
+REGION,0.003359437013161241
+Location,0.003093747238314656
+productivity_potential,0.0027706648545672945
+perc_of_Wall_material_with_Burnt_brick,0.002543834663910111
+perc_of_pop_living_in_hh_electricity,0.0020198222285543587
+total_credit_exposure,0.0017804578903823883
+mat_roof_Metal_GI_Asbestos_sheets,0.0017221310366324343
+housing_quality_index,0.0017057328128079283
+Women_15_19_Mothers_or_Pregnant_at_time_of_survey,0.0015874428535188332
+VILLAGE,0.0015453146479795404
+Avg_Disbursement_Amount_Bureau,0.0014504138382123327
+credit_per_land,0.001439380219730447
+Households_with_improved_Sanitation_Facility,0.001285145933256622
+perc_Households_do_not_have_KCC_With_The_Credit_Limit_Of_50k,0.0012390413639302878
+No_of_Active_Loan_In_Bureau,0.0012260761500734144
+Rabi Seasons Agricultural Score in 2022,0.0009682742763593782
+CITY,0.0009653151112467133
+Rabi Seasons Seasonal average groundwater replenishment rate (cm) in 2021,0.0009067647745063927
+Perc_of_house_with_6plus_room,0.0009027678985952033
+irrigation_consistency,0.0008019169014686831
+SEX,0.0007957588123530449
+perc_Households_with_Pucca_House_That_Has_More_Than_3_Rooms,0.0007843775740250001
+Rabi Seasons Agricultural performance in 2022,0.0007819710549714971
+cropping_intensity_change,0.0007106299140009261
+K021-Seasonal Average Rainfall (mm),0.0007052619209125747
+R020-Seasonal Average Rainfall (mm),0.0006657977750639632
+Kharif Seasons Seasonal average groundwater replenishment rate (cm) in 2020,0.0006644587655146763
+Kharif Seasons  Irrigated area in 2022,0.0006577891415503304
+rainfall_variability,0.0006047943918426888
+agri_performance_trend,0.0005892029512054881
+ Land Holding Index source (Total Agri Area/ no of people),0.0005883945983419345
+Kharif Seasons  Seasonal average groundwater replenishment rate (cm) in 2022,0.0005811883566581871
+Address type,0.0005736568992224589
+agri_score_trend,0.0005715249429106072
+ Night light index,0.0005664711050556346
+Kharif Seasons Cropping density in 2020,0.0005613178959329128
+Kharif Seasons Agricultural Score in 2021,0.0005578794176629782
+Rabi Seasons Cropping density in 2020,0.000548390779769539
+R022-Seasonal Average Rainfall (mm),0.0005481323507968772
+Kharif Seasons Agricultural performance in 2021,0.0005298487694549919
+Kharif Seasons  Cropping density in 2022,0.000516107040548201
+K021-Ambient temperature (min & max),0.000515733054939652
+Rabi Seasons Agricultural performance in 2021,0.0005143824830386027
+MARITAL_STATUS,0.0005111831094323161
+Rabi Seasons Cropping density in 2021,0.0005073433905217277
+K022-Nearest Mandi Name,0.0005067257031687564
+R020-Ambient temperature (min & max)_min,0.000498901273080114
+Kharif Seasons Agricultural performance in 2020,0.0004843312211155047
+Kharif Seasons  Seasonal average groundwater thickness (cm) in 2022,0.00046530674768177144
+avg_rainfall,0.0004644414048480926
+Kharif Seasons  Agricultural performance in 2022,0.00046115610038196056
+K022-Net Agri area (% of total geog area)-,0.0004498241464218771
+agri_land_utilization,0.0004487028494531463
+K022-Total Geographical Area (in Hectares)-,0.0004456904929650383
+K022-Proximity to nearest railway (Km),0.0004314865664121023
+avg_groundwater_thickness,0.00041677774227312834
+ Road density (Km/ SqKm),0.00041334351154721837
+Kharif Seasons Kharif Season Irrigated area in 2020,0.000409790372554353
+Rabi Seasons Seasonal average groundwater thickness (cm) in 2021,0.0004090584039582795
+min_rainfall,0.0004073681835065468
+Rabi Seasons Kharif Season Irrigated area in 2020,0.0003959935447606873
+avg_cropping_density,0.0003917240407068569
+Rabi Seasons Agricultural performance in 2020,0.000376951108615652
+Kharif Seasons Seasonal average groundwater thickness (cm) in 2020,0.0003762142550842992
+Kharif Seasons  Agricultural Score in 2022,0.0003707438762309875
+R020-Ambient temperature (min & max),0.00036730382076677505
+R021-Ambient temperature (min & max)_min,0.0003659899086589531
+Kharif Seasons Agricultural Score in 2020,0.0003654747884860389
+State,0.00036355388181639293
+max_rainfall,0.0003627523529280161
+min_agri_score,0.00035102416573516736
+R021-Seasonal Average Rainfall (mm),0.0003502847915573597
+R021-Ambient temperature (min & max),0.0003451683992342974
+Rabi Seasons Seasonal average groundwater thickness (cm) in 2020,0.00034475222764774693
+R022-Ambient temperature (min & max)_min,0.00033542624947514085
+Ownership,0.0003347522322975025
+Rabi Seasons  Season Irrigated area in 2022,0.0003341238878428409
+railway_accessibility,0.00033207757398326273
+K022-Seasonal Average Rainfall (mm),0.000326199703304135
+K022-Net Agri area (in Ha)-,0.00032486373376171187
+avg_groundwater_replenishment,0.00032309760851894454
+Kharif Seasons Seasonal average groundwater thickness (cm) in 2021,0.00031712165208260353
+KO22-Village score based on socio-economic parameters (0 to 100),0.00030144855487177294
+avg_agri_score,0.00030076838329714975
+Rabi Seasons Kharif Season Irrigated area in 2021,0.0002992896493568688
+avg_irrigated_area,0.0002947343130294495
+max_agri_score,0.0002919035990417997
+K022-Ambient temperature (min & max),0.0002889570285412527
+Kharif Seasons Seasonal average groundwater replenishment rate (cm) in 2021,0.0002874161447787622
+ Village score based on socio-economic parameters (0 to 100),0.00028541355378452804
+Rabi Seasons Agricultural Score in 2020,0.00028343164657183145
+Kharif Seasons Kharif Season Irrigated area in 2021,0.00026917818155684195
+ Village score based on socio-economic parameters (Non normalised),0.0002687792293317334
+Rabi Seasons Agricultural Score in 2021,0.0002656299848787968
+Rabi Seasons Seasonal average groundwater replenishment rate (cm) in 2020,0.00026443687106973083
+Rabi Seasons Cropping density in 2022,0.00026217097933078334
+Rabi Seasons Seasonal average groundwater replenishment rate (cm) in 2022,0.0002573716616884295
+R022-Ambient temperature (min & max),0.0002572711625342856
+Kharif Seasons  Agro Ecological Sub Zone in 2022,0.0002560886518191323
+kharif_avg_score,0.0002522630561144704
+K022-Ambient temperature (min & max)_min,0.00025006679385017013
+Kharif Seasons Cropping density in 2021,0.0002484258174535752
+rabi_avg_score,0.0002333657599356316
+Rabi Seasons Seasonal average groundwater thickness (cm) in 2022,0.00023192658138152753
+K022-Proximity to nearest mandi (Km),0.00022705496346882357
+market_accessibility,0.00022248875488991524
+K021-Ambient temperature (min & max)_min,0.00021586007153778658
+Kharif Seasons Agro Ecological Sub Zone in 2021,0.00018235792446102814
+Rabi Seasons Agro Ecological Sub Zone in 2021,0.00011692892363037538
+Kharif Seasons Agro Ecological Sub Zone in 2020,0.00010818910079118493
+Kharif Seasons Type of water bodies in hectares 2020,9.392309637687548e-05
+Kharif Seasons Type of soil in 2020,8.883572078398828e-05
+Rabi Seasons Agro Ecological Sub Zone in 2020,8.263652320853539e-05
+Rabi Seasons Type of water bodies in hectares 2021,5.984613534648647e-05
+Rabi Seasons Type of water bodies in hectares 2020,5.921052300155631e-05
+Kharif Seasons  Type of soil in 2022,5.759584644473449e-05
+Kharif Seasons  Type of water bodies in hectares 2022,5.5103019681964355e-05
+Kharif Seasons Type of water bodies in hectares 2021,5.098280467815156e-05
+Rabi Seasons Type of soil in 2022,4.783695214259874e-05
+Rabi Seasons Type of water bodies in hectares 2022,4.690633993238952e-05
+Rabi Seasons Type of soil in 2020,4.5926293782290325e-05
+Kharif Seasons Type of soil in 2021,4.585027568266465e-05
+Rabi Seasons Type of soil in 2021,4.428396969781048e-05
+Rabi Seasons Agro Ecological Sub Zone in 2022,4.3151811508534755e-05
+" Village category based on socio-economic parameters (Good, Average, Poor)",4.0037999924712634e-05
+"K022-Village category based on socio-economic parameters (Good, Average, Poor)",2.9798242371290886e-05
+socioeconomic_category,2.533201753027298e-05
+"K022-Village category based on Agri parameters (Good, Average, Poor)",2.085089712606684e-05
+"R022-Village category based on Agri parameters (Good, Average, Poor)",9.868286815594001e-06
+R022-Ambient temperature (min & max)_max,0.0
+K022-Ambient temperature (min & max)_max,0.0
+K022-Ambient temperature (min & max)_range,0.0
+K022-Ambient temperature (min & max)_avg,0.0
+R020-Ambient temperature (min & max)_avg,0.0
+R020-Ambient temperature (min & max)_range,0.0
+R022-Ambient temperature (min & max)_range,0.0
+R022-Ambient temperature (min & max)_avg,0.0
+K021-Ambient temperature (min & max)_range,0.0
+K021-Ambient temperature (min & max)_avg,0.0
+R021-Ambient temperature (min & max)_max,0.0
+R021-Ambient temperature (min & max)_range,0.0
+R021-Ambient temperature (min & max)_avg,0.0
+R020-Ambient temperature (min & max)_max,0.0
+K021-Ambient temperature (min & max)_max,0.0
